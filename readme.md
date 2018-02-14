@@ -1,4 +1,4 @@
-<a align="center" href="https://usehope.org"><img width="100%" src="https://usehope.org/images/thumbnail.png" alt="Hope - Let's save lives together!"></a>
+<a align="center" href="https://usehope.org"><img width="100%" src="https://usehope.org/assets/icons/thumbnail.png" alt="Hope - Let's save lives together!"></a>
 
 > Let's save lives together!
 
@@ -15,11 +15,53 @@
 The open source application that encourages blood donation, informing the nearest donation places, connecting you to those who need help.
 
 
+## Install
+
+**Install with npm**
+
+```sh
+$ npm i -g usehope
+```
+
+**Install with Yarn**
+
+```sh
+$ yarn global add usehope
+```
+
+**Run with npx (without installing!)**
+
+```sh
+$ npx usehope
+```
+
+
+## Usage
+
+```
+
+	Usage:
+
+		$ usehope [<options>]
+
+	Options:
+
+		-h, --help              Display help information
+		-v, --version           Output Initify version
+
+	Examples:
+
+		$ usehope --help
+		$ usehope --version
+
+```
+
+
 ## Contributing
 
-Want to contribute? Follow these [recommendations](https://github.com/usehope/usehope/blob/master/.github/contributing.md).
+Want to contribute? Follow these [recommendations](.github/contributing.md).
 
 
 ## License
 
-Designed with ♥ by [CJ Patoilo](http://twitter.com/cjpatoilo). Licensed under the [MIT License](http://cjpatoilo.mit-license.org).
+Designed with ♥ by [CJ Patoilo](https://twitter.com/cjpatoilo). Licensed under the [MIT License](license).
