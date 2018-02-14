@@ -39,7 +39,6 @@ $ npx usehope
 ## Usage
 
 ```
-
 	Usage:
 
 		$ usehope [<options>]
