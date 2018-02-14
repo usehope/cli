@@ -4,7 +4,7 @@
 
 [![Travis Status](https://travis-ci.org/usehope/usehope.svg?branch=master)](https://travis-ci.org/usehope/usehope?branch=master)
 [![AppVeyor Status](https://ci.appveyor.com/api/projects/status/xcm8meymwerq0r82?svg=true)](https://ci.appveyor.com/project/cjpatoilo/usehope)
-[![Codacy Status](https://img.shields.io/codacy/grade/f4ce5e771d64437191469b325aaaf26c/master.svg)](https://www.codacy.com/app/usehope/usehope/dashboard)
+[![Codacy Status](https://img.shields.io/codacy/grade/2742cd03b04a4fd2b6e6eb8152f87e66/master.svg)](https://www.codacy.com/app/cjpatoilo/usehope/dashboard)
 [![Dependencies Status](https://david-dm.org/usehope/usehope.svg)](https://david-dm.org/usehope/usehope)
 [![devDependencies Status](https://david-dm.org/usehope/usehope/dev-status.svg)](https://david-dm.org/usehope/usehope?type=dev)
 [![Gitter Chat](https://img.shields.io/badge/gitter-join_the_chat-4cc61e.svg)](https://gitter.im/cjpatoilo/usehope)
