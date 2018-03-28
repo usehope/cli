@@ -11,7 +11,6 @@ if (require.main === module) usehope(options)
 function usehope (options = {}) {
 	if (options.help) {
 		info(`
-
 Usage:
 
   $ usehope [<options>]
@@ -23,9 +22,7 @@ Options:
 
 Examples:
 
-  $ usehope --help
-  $ usehope --version
-
+  $ usehope
 		`)
 		process.exit(2)
 	}
@@ -36,5 +33,5 @@ Examples:
 	}
 
 	info('Let\'s save lives together!')
-	open(homepage)
+	setTimeout(() => open(homepage), 2000)
 }

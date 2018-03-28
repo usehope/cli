@@ -50,9 +50,7 @@ $ npx usehope
 
 	Examples:
 
-		$ usehope --help
-		$ usehope --version
-
+		$ usehope
 ```
 
 
